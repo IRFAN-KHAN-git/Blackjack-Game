@@ -2,7 +2,7 @@
 
 A **classic Blackjack game** built with **HTML, CSS, and JavaScript**. Play against the dealer, strategize your moves, and try your luck to hit **21**!  
 
-🎮 **Live Demo:** [Play Now](YOUR_DEPLOYED_LINK_HERE)  
+🎮 **Live Demo:** [Play Now](https://blkjackgame.netlify.app/)  
 
 ---
 
