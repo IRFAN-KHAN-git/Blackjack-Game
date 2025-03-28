@@ -18,7 +18,7 @@ A **classic Blackjack game** built with **HTML, CSS, and JavaScript**. Play agai
 ## 🛠 Tech Stack  
 - **HTML5** – Structuring the game layout  
 - **CSS3** – Styling and animations  
-- **JavaScript (Vanilla)** – Game logic and interactivity  
+- **JavaScript ** – Game logic and interactivity  
 
 ---
 
